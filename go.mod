@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-azurerm
+module github.com/hashicorp/terraform-provider-azurerm/v4
 
 require (
 	github.com/Azure/azure-sdk-for-go v66.0.0+incompatible
